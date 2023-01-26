@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-bs-typescript",
+  "version": "1.0.0",
+  "description": "Set of eslint rules",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bergx2/eslint-config-bs-typescript.git"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.6.0"
+  },
+  "author": "Denis Rybalka <denis@bergx2.de>",
+  "license": "ISC"
+}
